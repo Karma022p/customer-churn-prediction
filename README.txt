@@ -3,10 +3,6 @@
 Predicting customer churn helps businesses identify customers at risk of leaving so they can take early action.  
 This project uses the Telco Customer Churn dataset to build multiple ML models, compare their performance, and extract key churn insights.
 
-<p align="center">
-  <img src="visuals/model_comparison_table.png" width="600">
-</p>
-
 ---
 
 ## ⭐ Project Highlights
@@ -42,21 +38,6 @@ This project uses the Telco Customer Churn dataset to build multiple ML models, 
 This model achieved the **highest AUC score**, making it the best at identifying which customers are likely to churn.
 
 ---
-
-## 📈 Model Performance Comparison
-
-<p align="center">
-  <img src="visuals/model_comparison_table.png" width="600">
-</p>
-
----
-
-## 🔍 Feature Importance
-
-<p align="center">
-  <img src="visuals/feature_importance.png" width="500">
-</p>
-
 ### **Top Drivers of Customer Churn**
 
 1. Tenure  
@@ -101,5 +82,6 @@ This project uses the **Telco Customer Churn** dataset which includes customer i
 pip install -r requirements.txt   # optional if you create one
 
 jupyter notebook
+
 
 
