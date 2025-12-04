@@ -46,7 +46,7 @@ This model achieved the **highest AUC score**, making it the best at identifying
 ## 📈 Model Performance Comparison
 
 <p align="center">
-  <img src="visuals/model_comparison.png" width="600">
+  <img src="visuals/model_comparison_table.png" width="600">
 </p>
 
 ---
@@ -101,4 +101,5 @@ This project uses the **Telco Customer Churn** dataset which includes customer i
 pip install -r requirements.txt   # optional if you create one
 
 jupyter notebook
+
 
